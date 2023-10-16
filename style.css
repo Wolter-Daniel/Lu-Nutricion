@@ -11,11 +11,14 @@
 nav{
     display: inline-block;
     padding: 2px;
+    margin: 2px;
 }
 #menu-nav{
     display: inline-block;
     list-style: none;
     text-align: center;
+    padding: 2px;
+    margin: 2px;
 }
 #menu-nav li{
     float: left;
