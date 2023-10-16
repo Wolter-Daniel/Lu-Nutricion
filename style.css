@@ -3,22 +3,22 @@
     padding: 2px;
 }
 .titulo{
-    display: inline-flex;
+    display: inline-block;
     width: 200px;
     margin: 1px;
     padding: 2px;
 }
 nav{
-    display: inline-flex;
-    margin-left: 600px;
+    display: inline-block;
     padding: 2px;
 }
 #menu-nav{
-    display: inline-flex;
+    display: inline-block;
     list-style: none;
     text-align: center;
 }
 #menu-nav li{
+    float: left;
     margin: 2px;
     padding: 2px;
 }
