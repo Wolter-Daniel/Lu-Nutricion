@@ -1,18 +1,23 @@
+/*Cabezera de paguina y menu de navegacion*/
+
 #header{
     margin: 1px;
     padding: 2px;
 }
+
 .titulo{
     display: inline-block;
     width: 200px;
     margin: 1px;
     padding: 2px;
 }
+
 nav{
     display: inline-block;
     padding: 2px;
     margin: 2px;
 }
+
 #menu-nav{
     display: inline-block;
     list-style: none;
@@ -20,11 +25,15 @@ nav{
     padding: 2px;
     margin: 2px;
 }
+
 #menu-nav li{
     float: left;
     margin: 2px;
     padding: 2px;
 }
+
+/*Pie de pagina*/
+
 #footer{
     margin: 2px;
     padding: 24px;
