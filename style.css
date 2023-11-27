@@ -34,6 +34,11 @@ nav{
     padding: 2px;
 }
 
+#menu-nav a{
+    text-decoration: none;
+    color: black;
+}
+
 /*Pie de pagina*/
 
 #footer{
