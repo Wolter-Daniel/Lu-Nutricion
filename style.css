@@ -1,12 +1,13 @@
 /*Cabezera de paguina y menu de navegacion*/
 
 #header{
+    display: flex;
     margin: 1px;
     padding: 2px;
+    justify-content: space-between;
 }
 
 .titulo{
-    display: inline-block;
     width: 200px;
     margin: 1px;
     padding: 2px;
@@ -19,7 +20,8 @@ nav{
 }
 
 #menu-nav{
-    display: inline-block;
+    display: flex;
+    flex-direction: row;
     list-style: none;
     text-align: center;
     padding: 2px;
