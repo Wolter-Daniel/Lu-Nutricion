@@ -13,6 +13,11 @@ body{
     border-radius: 8px;
 }
 
+.titulo a{
+    text-decoration: none;
+    color: black;
+}
+
 .titulo{
     width: 200px;
     margin: 1px;
@@ -41,6 +46,9 @@ nav{
 }
 
 #menu-nav a{
+    padding: 6px;
+    border-radius: 8px;
+    background-color: aliceblue;
     text-decoration: none;
     color: black;
 }
